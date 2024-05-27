@@ -1,13 +1,7 @@
-Welcome to Lumache's documentation!
+Allu Bot Docs
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-Lumache has its documentation hosted on Read the Docs.
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**Allu** multipurpose discord bot. It's evolving all the time and we try our best to make bot useful for everyone.
 
 .. note::
 
@@ -18,5 +12,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Commands
+   Bot Info
+   Errors
