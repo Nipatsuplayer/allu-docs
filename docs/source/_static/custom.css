@@ -39,3 +39,10 @@
 .dropdown:hover .dropbtn {
     background-color: #2980B9;
 }
+
+body {
+    background-image: url('allu.jpg');  /* Replace with your image path */
+    background-size: cover;  /* Adjust as needed */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
